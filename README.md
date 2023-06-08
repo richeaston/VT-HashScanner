@@ -8,4 +8,6 @@ MSI installer virus total scan result are here.
 
 https://www.virustotal.com/gui/file/36314be715b0a38cc198bae1c0eb521f6ba6f97ac0763a5021890b2a0e854161/detection
 
+Disclaimer:: this utility is not supported or created by VirusTotal, and is not affiliated with them in any way.
+
 ![VT Scanner GUI](https://github.com/richeaston/VT-HashScanner/blob/main/Vthashscanner.png)
