@@ -10,11 +10,13 @@ This utility allows you to scan single or multiple file hashes (via CSV or TXT f
 * **Color-Coded Results:** View scan results in an easy-to-read, color-coded datagrid.
 * **Exportable Reports:** Export the scan results to a CSV report.
 
+![VT Scanner GUI](https://github.com/richeaston/VT-HashScanner/blob/main/Vthashscanner.png)
+
 ## MSI Installer Scan Result
 
 You can view the VirusTotal scan result for the MSI installer here:
 [VirusTotal Scan Result](https://www.virustotal.com/gui/file/36314be715b0a38cc198bae1c0eb521f6ba6f97ac0763a5021890b2a0e854161/detection)
-![VT Scanner GUI](https://github.com/richeaston/VT-HashScanner/blob/main/Vthashscanner.png)
+
 ## Online Version
 
 Try our online version of the VirusTotal Hash Scanner here:
