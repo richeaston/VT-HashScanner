@@ -19,7 +19,7 @@ You can view the VirusTotal scan result for the MSI installer here:
 
 Try our online version of the VirusTotal Hash Scanner here:
 [https://www.poshcodex.co.uk/VTHS/](https://www.poshcodex.co.uk/VTHS/)
-
+![VTHS-Online](https://github.com/richeaston/VT-HashScanner/blob/main/Vthashscanner.png)
 ***
 
 > **Disclaimer:** This utility is not created or supported by VirusTotal and is not affiliated with them in any way.
